@@ -158,7 +158,10 @@
   }
 }
 
-@media (min-width: 576px) and (max-width: 768px) {
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .push-left {
+    padding-left: 6em;
+  }
   .contact-container {
     width: 75%;
   }
