@@ -179,5 +179,8 @@
     right: 0;
     width: 25%;
   }
+  .footer-links li:first-child {
+    padding-top: 0;
+  }
 }
 /*# sourceMappingURL=style.css.map */
