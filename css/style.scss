@@ -92,6 +92,10 @@
   }
 }
 
+.email-text {
+  width: 75%;
+}
+
 .btn-join {
   position: absolute;
   top: 0;
@@ -147,5 +151,14 @@
 
   .icon-border {
     width: 30%;
+  }
+
+  .email-text {
+    width: 100%;
+  }
+  
+  .btn-join {
+    right: 0;
+    width: 25%;
   }
 }
